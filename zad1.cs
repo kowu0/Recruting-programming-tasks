@@ -1,0 +1,1 @@
+﻿//ustaw wartości w tablicy
