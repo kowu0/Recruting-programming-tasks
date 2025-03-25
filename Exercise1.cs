@@ -1,3 +1,4 @@
+
 public static class Exercise1{
     public static void Exercises()
     {
